@@ -1,0 +1,9 @@
+<mvc:View displayBlock="true" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
+	<Carousel>
+		<pages>
+			<Image src="https://thumbs.dreamstime.com/b/earth-globe-12290020.jpg" height="600px"/>
+			<Image
+				src="https://thumbs.dreamstime.com/b/earth-globe-12290020.jpg"	height="600px"/>
+		</pages>
+	</Carousel>
+</mvc:View>
